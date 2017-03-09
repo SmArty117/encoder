@@ -1,0 +1,8 @@
+
+About this application:
+
+This is an application designed to encode and decode messages using a certain combination of numbers. You will need to know the exact combination of numbers used to encode a message in order to decode it.
+
+The codes seen above are permutations of the lowercase letters and numbers, all of the same length. You can add as many of them as you like, as long as they follow the rule mentioned before, but, as was the case with the numbers, the same strings have to be used to both encode and decode a message. Punctuation, spaces and other characters will remain unchanged.
+
+The number of numbers used and the number of strings used must be equal at all times (please restart the application after updating the strings). Of course, the greater the number, the harder it will be to break the message.

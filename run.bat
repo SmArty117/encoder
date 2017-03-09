@@ -1,0 +1,1 @@
+python "encoder_app.py"
